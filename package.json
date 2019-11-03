@@ -40,6 +40,7 @@
     "@storybook/react": "^5.2.5",
     "babel-plugin-macros": "^2.6.1",
     "react-test-renderer": "^16.11.0",
-    "require-context.macro": "^1.2.2"
+    "require-context.macro": "^1.2.2",
+    "storybook-chromatic": "^3.0.3"
   }
 }
